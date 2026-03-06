@@ -294,17 +294,31 @@
     "character": "Tanjiro"
   },
   {
-  "japanese": "諦めないってばよ!",
-  "romaji": "Akiramenai tte bayo!",
-  "english": "I never give up, believe it! (alt wording 33) (alt wording 85)",
-  "anime": "Naruto",
-  "character": "Naruto Uzumaki"
-},
-{
-  "japanese": "おれは人間を超越する！",
-  "romaji": "Ore wa ningen o chouetsu suru!",
-  "english": "I will transcend humanity! (alt wording 14)",
-  "anime": "JoJo's Bizarre Adventure: Battle Tendency",
-  "character": "Kars"
-}
+    "japanese": "諦めないってばよ!",
+    "romaji": "Akiramenai tte bayo!",
+    "english": "I never give up, believe it! (alt wording 33) (alt wording 85)",
+    "anime": "Naruto",
+    "character": "Naruto Uzumaki"
+  },
+  {
+    "japanese": "おれは人間を超越する！",
+    "romaji": "Ore wa ningen o chouetsu suru!",
+    "english": "I will transcend humanity! (alt wording 14)",
+    "anime": "JoJo's Bizarre Adventure: Battle Tendency",
+    "character": "Kars"
+  },
+  {
+    "japanese": "シシシシシ",
+    "romaji": "Shishishishi",
+    "english": "Shishishi! (alt wording 30)",
+    "anime": "One Piece",
+    "character": "Monkey D. Luffy"
+  },
+  {
+    "japanese": "貴様ッ！見ているなッ！！",
+    "romaji": "Kisama! Mite iru na!!",
+    "english": "You! You're watching me! (alt wording 11) (alt wording 63)",
+    "anime": "JoJo's Bizarre Adventure: Stone Ocean",
+    "character": "Jolyne Cujoh"
+  }
 ]
