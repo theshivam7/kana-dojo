@@ -349,7 +349,7 @@
     "romaji": "Ashita wa ashita no kaze ga fuku",
     "english": "Tomorrow's wind will blow tomorrow",
     "meaning": "Don't worry too much about the future",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -359,7 +359,7 @@
     "english": "A strong person under the veranda",
     "meaning": "An unsung hero who supports behind the scenes",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 41,
