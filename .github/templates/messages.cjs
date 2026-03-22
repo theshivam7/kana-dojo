@@ -17,6 +17,7 @@ module.exports = {
       'up-for-grabs',
       'first-timers-only',
       'low hanging fruit',
+      'enhancement'
     ],
     // Pool — 2-3 randomly selected per issue (adds variety, avoids spam signal)
     secondaryIssuePool: [
