@@ -816,7 +816,7 @@
     "note": "謙遜表現が好まれる。",
     "id": 91,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "遅刻時 5",
@@ -1032,7 +1032,7 @@
     "note": "丁寧で非接触な受け渡し。",
     "id": 115,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "乾杯 6",
@@ -1041,7 +1041,7 @@
     "note": "場の一体感を重視。",
     "id": 116,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "公共スペース 6",
@@ -1049,7 +1049,7 @@
     "dont": "ゴミを放置する",
     "note": "ゴミ箱が少ない地域がある。",
     "id": 117,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
