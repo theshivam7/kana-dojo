@@ -96,7 +96,7 @@
     "note": "謙遜表現が好まれる。",
     "id": 11,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "遅刻時 1",
@@ -105,7 +105,7 @@
     "note": "先に謝罪が基本。",
     "id": 12,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "写真撮影（寺社） 1",
@@ -114,7 +114,7 @@
     "note": "御本尊周辺は撮影不可が多い。",
     "id": 13,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "年上との会話 1",
@@ -123,7 +123,7 @@
     "note": "距離感が縮まるまでは敬語が無難。",
     "id": 14,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "レジ会計 1",
@@ -131,7 +131,7 @@
     "dont": "現金を投げるように渡す",
     "note": "丁寧で非接触な受け渡し。",
     "id": 15,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
